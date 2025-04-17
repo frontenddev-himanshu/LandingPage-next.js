@@ -32,7 +32,7 @@ body {
 @media screen and (max-width: 1200px) {
 
   .heroSection {
-    height: 60vh;
+    height: 100vh;
   }
 
   nav,
@@ -92,6 +92,11 @@ body {
     margin: 15px 0;
     font-size: 1rem;
     text-align: center;
+    width: 100%;
+  }
+
+  .aboutPage {
+    font-size: 2rem;
   }
 }
 
@@ -99,7 +104,7 @@ body {
 @media screen and (max-width: 768px) {
 
   .heroSection {
-    height: 50vh;
+    height: 100vh;
   }
 
   nav,
@@ -141,4 +146,9 @@ body {
     font-size: .7rem;
     text-align: center;
   }
+
+  .aboutPage {
+    font-size: 1rem;
+  }
+  
 }

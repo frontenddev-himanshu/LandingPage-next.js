@@ -13,9 +13,9 @@ export default function Home() {
             inspirations for your business
           </h2>
 
-          <p className="text-[1.1rem] text-[#ffffffb3] my-[30px]">
+          <p className="text-[1.1rem] text-[#ffffffb3] my-[30px] w-[70%]">
             This is just a simple text made for this unique and awesome
-            template, you <br></br> can replace it with any text.
+            template, you  can replace it with any text.
           </p>
 
           <LoginBtn name={"See More"} />
