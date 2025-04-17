@@ -98,6 +98,10 @@ body {
   .aboutPage {
     font-size: 2rem;
   }
+
+  .servBtn li {
+    font-size: .8rem;
+  }
 }
 
 
@@ -149,6 +153,10 @@ body {
 
   .aboutPage {
     font-size: 1rem;
+  }
+
+  .servBtn li {
+    font-size: .6rem;
   }
   
 }
